@@ -31,6 +31,7 @@ Gem::Specification.new do |s|
      "lib/sqs/right_sqs_gen2.rb",
      "lib/sqs/right_sqs_gen2_interface.rb",
      "lib/sqs/right_sqs_interface.rb",
+     "right_aws.gemspec",
      "test/acf/test_helper.rb",
      "test/acf/test_right_acf.rb",
      "test/ec2/test_helper.rb",
